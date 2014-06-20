@@ -6,7 +6,6 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace GitApp
-{
     public partial class MyHome : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)

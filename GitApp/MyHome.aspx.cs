@@ -12,7 +12,7 @@ namespace GitApp
         protected void Page_Load(object sender, EventArgs e)
         {
             //This is PageLoad
-            var x = 300;
+            var x = 30;
             Response.Write("This is not Awesome");
             //Wow this is Awesome
         }

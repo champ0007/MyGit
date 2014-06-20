@@ -12,6 +12,8 @@ namespace GitApp
         protected void Page_Load(object sender, EventArgs e)
         {
             //This is PageLoad
+            var x = 100;
+            Response.Write(x);
             //Wow this is Awesome
         }
     }
